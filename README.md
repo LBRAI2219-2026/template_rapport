@@ -12,20 +12,19 @@ Mettre en évidence la robustesse des processus de croissance, de développement
 
 # Deliverable final
 
-Jupyter notebook (ou RMarkdown) qui tourne
-
-- Checkpoints techniques (9/20)
+Jupyter notebook;, fichier python executalbe ou RMardown qui tourne
+- Checkpoints techniques (9/20):
   - Utilisation des modèles individuels (/1)
   - Adaptation des modèles à votre question (/2)
   - Simulation de conditions fluctuantes (/2)
-  - Simulation du caractére hétérogène, aléatoire ou redondant d'un processu biologique /  (/2)
-  - Interaction entre les conditions et les processus (/2)
+  - Simulation du caractére hétérogène, aléatoire ou redondant d'un processu biologique / (/2)
+  - Analyse des données de sortie (création de graphiques, création d’indices pour l’analyse) (/2)
     
 - Checkpoints méthodologique et théorique (6/20)
-  - Bibliographie pertinente (justification des scénarios) (/2)
+  - Bibliographie pertinente (justification des scénarios) (/1)
   - Plan de simulations (/1)
   - Code commenté (/1)
-  - Discussion argumentée et en lien avec la literature scientifique (/2)
+  - Discussion argumentée et en lien avec la literature scientifique (/3)
 
 - Checkpoints collaboratif (3/20)
   - Partage de code (/1)
